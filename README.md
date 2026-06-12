@@ -1,14 +1,14 @@
 # Andean Fire Ecosystem Dynamics (2017-2025)
 **Code and Data Repository**
 
-[![DOI](https://zenodo.org/badge/DOI/[AQUÍ_IRÁ_TU_DOI_DE_ZENODO].svg)](https://doi.org/[AQUÍ_IRÁ_TU_DOI_DE_ZENODO])
+[![DOI](https://zenodo.org/badge/DOI/[DOI_DE_ZENODO].svg)](https://doi.org/[DOI_DE_ZENODO])
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![R 4.0+](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Google Earth Engine](https://img.shields.io/badge/GEE-Python_API-green.svg)](https://earthengine.google.com/)
 
 ## Overview
-This repository contains the source code and datasets required to reproduce the spatial and statistical analyses presented in the manuscript: **"[Inserta aquí el título exacto de tu artículo]"**. 
+This repository contains the source code and datasets required to reproduce the spatial and statistical analyses presented in the manuscript: **"[Fire recurrence drives structural collapse masked by greenness in non-fire-adapted Andean ecosystems]"**. 
 
 The study evaluates wildfire spatiotemporal variability, environmental drivers, and ecological recovery in high-Andean ecosystems (specifically the Titankayocc Regional Conservation Area) utilizing a multi-sensor harmonization approach (Sentinel-2, Landsat 8/9) via Google Earth Engine (GEE), followed by robust econometric validation.
 
