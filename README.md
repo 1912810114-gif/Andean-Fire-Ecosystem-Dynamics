@@ -1,7 +1,7 @@
 # Andean Fire Ecosystem Dynamics (2017-2025)
 **Code and Data Repository**
 
-[![DOI](https://zenodo.org/badge/DOI/[DOI_DE_ZENODO].svg)](https://doi.org/[DOI_DE_ZENODO])
+[![DOI](https://zenodo.org/badge/DOI/[https://doi.org/10.5281/zenodo.20669734].svg)](https://doi.org/[https://doi.org/10.5281/zenodo.20669734])
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![R 4.0+](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
