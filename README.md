@@ -7,12 +7,12 @@
 [![R 4.0+](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Google Earth Engine](https://img.shields.io/badge/GEE-Python_API-green.svg)](https://earthengine.google.com/)
 
-## 📌 Overview
+## Overview
 This repository contains the source code and datasets required to reproduce the spatial and statistical analyses presented in the manuscript: **"[Inserta aquí el título exacto de tu artículo]"**. 
 
 The study evaluates wildfire spatiotemporal variability, environmental drivers, and ecological recovery in high-Andean ecosystems (specifically the Titankayocc Regional Conservation Area) utilizing a multi-sensor harmonization approach (Sentinel-2, Landsat 8/9) via Google Earth Engine (GEE), followed by robust econometric validation.
 
-## 📂 Repository Structure
+## Repository Structure
 
 The analytical workflow is structured into two main phases: first, spatial data extraction and harmonization using 5 Python scripts (designed for Google Colab); and second, econometric modeling and validation using 5 R scripts, accompanied by their corresponding intermediate datasets.
 
